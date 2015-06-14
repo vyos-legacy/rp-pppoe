@@ -3,7 +3,7 @@ Maintainer: VyOS Package Maintainers <maintainers@vyos.net>
 Standards-Version: 3.6.0
 Section: net
 Priority: optional
-Build-Depends: debhelper (> 4)
+Build-Depends: debhelper (> 4), vyatta-ppp-dev
 
 Package: pppoe
 Architecture: any
