@@ -1,3 +1,11 @@
+pppoe (1:3.11+vyos2+lithium3) unstable; urgency=low
+
+  [ Alex Harpin ]
+  * pppoe: update dh_gencontrol with new development build flag
+  * pppoe: add a build dependency of vyatta-ppp-dev to enable ci builds  
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Sun, 14 Jun 2015 22:02:48 +0100
+ 
 pppoe (1:3.11+vyos2+lithium2) unstable; urgency=low
 
   * Force release
