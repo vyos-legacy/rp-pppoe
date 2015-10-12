@@ -1,3 +1,10 @@
+pppoe (1:3.11+vyos2+lithium6) unstable; urgency=low
+
+  [ Alex Harpin ]
+  * pppoe: correct typo in src/Makefile.in
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Mon, 12 Oct 2015 21:01:21 +0100
+ 
 pppoe (1:3.11+vyos2+lithium5) unstable; urgency=low
 
   [ Alex Harpin ]
